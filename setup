@@ -5,4 +5,4 @@ set whichwrap+=<,>,h,l,[,]" > ~/.vimrc
 
 # setup vim as default editor for sudoedit
 
-echo "export EDITOR="/usr/bin/vim"" >> .bashrc
+echo "export EDITOR="/usr/bin/vim"" >> ~/.bashrc
